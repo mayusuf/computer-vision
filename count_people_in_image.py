@@ -1,7 +1,7 @@
 #===========================================================================================
 #
-#title           :Count persons in an image. Also series of images.
-#description     :This script read images from a directory.
+#title           :Count persons in an image. Also in series of images.
+#description     :This script count persons in an image. Also in series of images.
 #author		 	 :Abu Yusuf
 #date            :20190114
 #version         :1.0    

@@ -1,7 +1,7 @@
 #===========================================================================================
 #
-#title           :Count persons in an image. Also series of images.
-#description     :This script read images from a directory.
+#title           :Count persons in a video.
+#description     :This script read video from a directory. Then find out people in the video.
 #author		 	 :Abu Yusuf
 #date            :20190114
 #version         :1.0    
