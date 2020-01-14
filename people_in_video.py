@@ -86,7 +86,7 @@ def main():
     # Closes all the frames
     cv.destroyAllWindows()
     
-    print('In total {} persons are present here.'.format(total))
+    #print('In total {} persons are present here.'.format(total))
     
     print('Done')
 
